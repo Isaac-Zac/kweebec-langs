@@ -1,0 +1,326 @@
+[
+  {
+    "chance": 10,
+    "title": "Un cervo!",
+    "description" : "Sembra che siano in un branco, potrei attaccarlo o continuare con la mia esplorazione.",
+    "imageurl": "https://i.imgur.com/fZJzdH0.png",
+    "attack": true
+  },
+  {
+    "chance": 8,
+    "title": "Uno scheletro!",
+    "description" : "Lì vengono, li attaccherò, ma stai molto attento con la lava!",
+    "imageurl": "https://i.imgur.com/Biy5AEd.jpg",
+    "attack": true
+  },
+  {
+    "chance": 8,
+    "title": "È una tigre dai denti a sciabola?",
+    "description" : "Questa volta userò la mia lancia!",
+    "imageurl": "https://i.imgur.com/YfTZHN5.jpg",
+    "attack": true
+  },
+  {
+    "chance": 20,
+    "title": "Un guerriero con un'arma",
+    "description" : "Deve essere alleato, meglio seguire il mio viaggio...",
+    "imageurl": "https://i.imgur.com/vgIfHtq.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Quanta pace e tranquillità",
+    "description" : "A volte devi solo rilassarti e goderti il bellissimo tramonto.",
+    "imageurl": "https://i.imgur.com/qL1Cxcr.jpg"
+  },
+  {
+    "chance": 6,
+    "title": "Un temibile drago di ghiaccio!",
+    "description" : "Attacco in gruppo, è un nemico piuttosto forte!",
+    "imageurl": "https://imgur.com/jWRMUTz.jpg",
+    "attack": true
+  },
+  {
+    "chance": 6,
+    "title": "Che strane creature",
+    "description" : "Anche se non è il momento di spaventarsi, devi attaccare!",
+    "imageurl": "https://imgur.com/fmPTL3B.jpg",
+    "attack": true
+  },
+  {
+    "chance": 10,
+    "title": "Una battaglia campale!",
+    "description" : "Non è male divertirci nei minigiochi di tanto in tanto, stiamo per vincere la squadra!",
+    "imageurl": "https://imgur.com/KSSBUyX.jpg",
+    "attack": true
+  },
+  {
+    "chance": 20,
+    "title": "Un cactus con occhi e bocca?",
+    "description" : "Pensavo di aver visto tutto...",
+    "imageurl": "https://imgur.com/WDyiUHi.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Sono dei suricati?",
+    "description" : "Non lo so, potrebbero anche essere un altro animale...",
+    "imageurl": "https://imgur.com/hMjGRK4.jpg"
+  },
+  {
+    "chance": 12,
+    "title": "Un orso che dorme!",
+    "description" : "Sarebbe un peccato svegliarlo...",
+    "imageurl": "https://imgur.com/11vHGhV.jpg",
+    "attack": true
+  },
+  {
+    "chance": 13,
+    "title": "Che bella miniera",
+    "description" : "Così tante cose luminose, lava e molto rock, forse dovrei estrarre e raccogliere alcuni minerali.",
+    "imageurl": "https://imgur.com/aWiRbji.jpg",
+    "pickup": true
+  },
+  {
+    "chance": 20,
+    "title": "Sembra una sala da pranzo",
+    "description" : "È possibile che qualcuno viva qui, potrebbero pensare che io sia un intruso...",
+    "imageurl": "https://imgur.com/J7Pb6aI.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Una gigantesca mega fortezza!",
+    "description" : "Cosa sarà?, Cosa ci sarà dentro?, Molte domande invadono la mia mente...",
+    "imageurl": "https://imgur.com/4c7Xwzv.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Una grotta!",
+    "description" : "È possibile connettersi con altre grotte, c'è ancora molto da esplorare.",
+    "imageurl": "https://imgur.com/lvTol1s.jpg"
+  },
+  {
+    "chance": 8,
+    "title": "Eccolo che viene!",
+    "description" : "Non ricordo di aver visto qualcosa di simile prima, ma devo affrontare il tuo attacco ora!",
+    "imageurl": "https://imgur.com/WJciyOV.jpg",
+    "attack": true
+  },
+  {
+    "chance": 20,
+    "title": "Un Kweebec!",
+    "description" : "Anche se questo ha un'arma in mano, anche il più adorabile ha il suo lato esplosivo...",
+    "imageurl": "https://imgur.com/zkpRB3d.jpg"
+  },
+  {
+    "chance": 18,
+    "title": "Hypixel",
+    "description" : "Un servidor increíble, no está mal jugar un rato allí :slight_smile:",
+    "imageurl": "https://imgur.com/h2eqaaM.jpg"
+  },
+  {
+    "chance": 8,
+    "title": "Antilopi in pericolo!",
+    "description" : "Difenderò le antilopi, devo attaccare i felini!",
+    "imageurl": "https://imgur.com/9rzAwv7.jpg",
+    "attack": true
+  },
+  {
+    "chance": 8,
+    "title": "Giocatori",
+    "description" : "Alcuni giocatori si divertono, alla grande, ti dirò ciao...",
+    "imageurl": "https://imgur.com/Z8NfTEb.jpg",
+    "greet": true
+  },
+  {
+    "chance": 18,
+    "title": "Un gufo!",
+    "description" : "Era un po 'nascosto, ma posso vederlo...",
+    "imageurl": "https://imgur.com/rAJMHMz.jpg"
+  },
+  {
+    "chance": 6,
+    "title": "Un lupo ardente!",
+    "description" : "Brucia letteralmente in fiamme!",
+    "imageurl": "https://imgur.com/bSvlFDw.gif",
+    "attack": true
+  },
+  {
+    "chance": 18,
+    "title": "Il cinema, un posto fantastico",
+    "description" : "Spegni il telefono, il film inizierà!",
+    "imageurl": "https://imgur.com/YYc37Uf.jpg"
+  },
+  {
+    "chance": 18,
+    "title": "Abbiamo bisogno di legno!",
+    "description" : "Ho trovato degli alberi qui intorno, li ho tagliati!",
+    "imageurl": "https://imgur.com/zg8EKUc.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Un portale!",
+    "description" : "Cosa ci sarà dall'altra parte?",
+    "imageurl": "https://imgur.com/lmQlGpV.jpg"
+  },
+  {
+    "chance": 4,
+    "title": "Vai per il tesoro!",
+    "description" : "Cosa ci sarà dentro?",
+    "imageurl": "https://imgur.com/uTb1zX2.jpg",
+    "opencrate": true
+  },
+  {
+    "chance": 20,
+    "title": "Che diavolo è?",
+    "description" : "Mi dà una brutta sensazione...",
+    "imageurl": "https://imgur.com/THShV1N.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "L'oceano!",
+    "description" : "Senza dubbio un posto molto colorato...",
+    "imageurl": "https://imgur.com/IvJcmjv.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "¡Kweebecs!",
+    "description" : "Quanto adorabili sembrano, alcuni sono solo bambini.",
+    "imageurl": "https://imgur.com/5QCE2lz.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Un bel cucciolo",
+    "description" : "Mi piacerebbe avere un animale domestico come :)",
+    "imageurl": "https://imgur.com/AZrv9O0.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "VARYN",
+    "description" : "È un ritratto semplice, ma la leggenda dice che è qualcuno molto potente.",
+    "imageurl": "https://imgur.com/Ri9bw8J.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Una città!",
+    "description" : "Sembra un posto abbastanza felice, a poco a poco sta progredendo.",
+    "imageurl": "https://imgur.com/tAN65OV.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Rovine!",
+    "description" : "Cosa sarà in quel posto? L'oceano conserva molti segreti.",
+    "imageurl": "https://imgur.com/OHaJuu3.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Sabbia, alberi e palme",
+    "description" : "Che bello spettacolo, sembra un deserto con montagne ben definite, questo posto assomiglia molto al grande canyon.",
+    "imageurl": "https://imgur.com/LPj37aD.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Una grotta acquatica!",
+    "description" : "Sembra un posto interessante, ci sarà qualche tesoro lì?",
+    "imageurl": "https://imgur.com/pJbiVRb.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Crepe e una torre",
+    "description" : "C'è molta vegetazione, alberi, crepe e una torre, un luogo ideale per iniziare...",
+    "imageurl": "https://imgur.com/KWBMTu4.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Una vista incredibile",
+    "description" : "La generazione del mondo è abbastanza interessante, fiumi, laghi, alberi, grotte, rilievi vari, questo mondo è molto interessante...",
+    "imageurl": "https://imgur.com/P1p3Dgi.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Il potere del Summit",
+    "description" : "A volte vedere le cose da una montagna mi aiuta a conoscere questo mondo favoloso...",
+    "imageurl": "https://imgur.com/cAOc0jr.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Che curioso!",
+    "description" : "In questo posto l'oscurità non è un problema, sembra piuttosto luminosa!",
+    "imageurl": "https://imgur.com/Sx16BKi.jpg"
+  },
+  {
+    "chance": 12,
+    "title": "Una famiglia!",
+    "description" : "Sebbene questa famiglia sia di pollo, forse il pollo ha lasciato un uovo, lo raccoglierò e lo venderò :cooking:",
+    "imageurl": "https://imgur.com/v9FB5Uk.jpg",
+    "egg": true
+  },
+  {
+    "chance": 12,
+    "title": "Un piccolo fiume!",
+    "description" : "Che Kweebec sia felice, forse posso prendere qualcosa in questo posto.",
+    "imageurl": "https://imgur.com/sXILbVz.jpg",
+    "fishing": true
+  },
+  {
+    "chance": 12,
+    "title": "Un drago di ghiaccio!",
+    "description" : "Dovrò mettere questa bestia al suo posto!",
+    "imageurl": "https://imgur.com/fJiEGB9.jpg",
+    "attack": true
+  },
+  {
+    "chance": 20,
+    "title": "Una nuova alba!",
+    "description" : "Nei luoghi ghiacciati, quando la luna è nascosta, puoi provare un po 'di pace...",
+    "imageurl": "https://imgur.com/e4atnDY.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Un sotterraneo!",
+    "description" : "Ci sono molti posti che dovrei esplorare...",
+    "imageurl": "https://imgur.com/SfR3p3c.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "È tempo di riposare",
+    "description" : "Non tutto è da esplorare e combattere, a volte basta riposare un momento con un buon fuoco.",
+    "imageurl": "https://imgur.com/hhLPN8S.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Quante specie!",
+    "description" : "È curioso immergersi nell'oceano, nuove specie di pesci, alcune navi affondate e molte alghe di diversi colori.",
+    "imageurl": "https://imgur.com/Sw2IDwk.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "¡El YETI!",
+    "description" : "Non devi mai arrendersi, è tempo di combattere!",
+    "imageurl": "https://imgur.com/dOE14EY.jpg",
+    "attack": true
+  },
+  {
+    "chance": 20,
+    "title": "Una zona arida!",
+    "description" : "Ci sono palme, noci di cocco e acqua, niente di male per farmi un rifugio.",
+    "imageurl": "https://imgur.com/T7hRKLU.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Forge!",
+    "description" : "È molto divertente da forgiare, ora potrò combattere con nuovi nemici.",
+    "imageurl": "https://imgur.com/QBjdu6W.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Posti sotterranei!",
+    "description" : "È un posto abbastanza nascosto, ma molto impressionante...",
+    "imageurl": "https://imgur.com/RJ5NQRL.jpg"
+  },
+  {
+    "chance": 8,
+    "title": "Trorks!",
+    "description" : "Non penso che siano amichevoli, è tempo di combattere!",
+    "imageurl": "https://imgur.com/AYUuUwt.jpg",
+    "attack": true
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "chance": 10,
+    "title": "Олень!",
+    "description" : "Кажется, что они в стае, я мог бы атаковать или продолжить свое исследование.",
+    "imageurl": "https://i.imgur.com/fZJzdH0.png",
+    "attack": true
+  },
+  {
+    "chance": 8,
+    "title": "Скелет!",
+    "description" : "Там они придут, я нападу на них, но будьте очень осторожны с лавой!",
+    "imageurl": "https://i.imgur.com/Biy5AEd.jpg",
+    "attack": true
+  },
+  {
+    "chance": 8,
+    "title": "Это саблезубый тигр?",
+    "description" : "На этот раз я буду использовать свое копье!",
+    "imageurl": "https://i.imgur.com/YfTZHN5.jpg",
+    "attack": true
+  },
+  {
+    "chance": 20,
+    "title": "Воин с оружием",
+    "description" : "Должен быть в союзе, лучше следовать моей поездке...",
+    "imageurl": "https://i.imgur.com/vgIfHtq.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Сколько мира и спокойствия",
+    "description" : "Иногда нужно просто расслабиться и насладиться прекрасным закатом.",
+    "imageurl": "https://i.imgur.com/qL1Cxcr.jpg"
+  },
+  {
+    "chance": 6,
+    "title": "Страшный ледяной дракон!",
+    "description" : "Атака в группе, это довольно сильный враг!",
+    "imageurl": "https://imgur.com/jWRMUTz.jpg",
+    "attack": true
+  },
+  {
+    "chance": 6,
+    "title": "Какие странные существа",
+    "description" : "Хотя сейчас не время бояться, вам нужно атаковать!",
+    "imageurl": "https://imgur.com/fmPTL3B.jpg",
+    "attack": true
+  },
+  {
+    "chance": 10,
+    "title": "Тяжелая битва!",
+    "description" : "Неплохо время от времени веселиться в мини-играх, мы идем на победу команды!",
+    "imageurl": "https://imgur.com/KSSBUyX.jpg",
+    "attack": true
+  },
+  {
+    "chance": 20,
+    "title": "Кактус с глазами и ртом?",
+    "description" : "Я думал, что видел все это...",
+    "imageurl": "https://imgur.com/WDyiUHi.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Они сурикаты?",
+    "description" : "Я не знаю, они также могут быть другим животным...",
+    "imageurl": "https://imgur.com/hMjGRK4.jpg"
+  },
+  {
+    "chance": 12,
+    "title": "Спящий медведь!",
+    "description" : "Было бы стыдно разбудить его...",
+    "imageurl": "https://imgur.com/11vHGhV.jpg",
+    "attack": true
+  },
+  {
+    "chance": 13,
+    "title": "Какая красивая моя",
+    "description" : "Так много ярких вещей, лавы и много камней, может быть, мне стоит добывать и собирать минералы.",
+    "imageurl": "https://imgur.com/aWiRbji.jpg",
+    "pickup": true
+  },
+  {
+    "chance": 20,
+    "title": "Это похоже на столовую",
+    "description" : "Возможно, что кто-то здесь живет, они могут подумать, что я злоумышленник...",
+    "imageurl": "https://imgur.com/J7Pb6aI.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Гигантский гипер гигантский форт?",
+    "description" : "Что это будет? Что будет внутри? Многие вопросы вторгаются в мой разум...",
+    "imageurl": "https://imgur.com/4c7Xwzv.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Пещера!",
+    "description" : "Есть возможность соединиться с другими пещерами, там еще многое предстоит исследовать.",
+    "imageurl": "https://imgur.com/lvTol1s.jpg"
+  },
+  {
+    "chance": 8,
+    "title": "Там он приходит!",
+    "description" : "Я не помню, чтобы видел что-то подобное раньше, но я должен противостоять вашей атаке сейчас!",
+    "imageurl": "https://imgur.com/WJciyOV.jpg",
+    "attack": true
+  },
+  {
+    "chance": 20,
+    "title": "Квибикс!",
+    "description" : "Хотя у этого есть оружие в его руках, даже у самого восхитительного есть взрывная сторона...",
+    "imageurl": "https://imgur.com/zkpRB3d.jpg"
+  },
+  {
+    "chance": 18,
+    "title": "Hypixel",
+    "description" : "Невероятный сервер, неплохо играть там какое-то время :slight_smile:",
+    "imageurl": "https://imgur.com/h2eqaaM.jpg"
+  },
+  {
+    "chance": 8,
+    "title": "Антилопы в опасности!",
+    "description" : "Я буду защищать антилоп, я должен атаковать этих кошек!",
+    "imageurl": "https://imgur.com/9rzAwv7.jpg",
+    "attack": true
+  },
+  {
+    "chance": 8,
+    "title": "игроки",
+    "description" : "Некоторым игрокам весело, здорово, я скажу привет...",
+    "imageurl": "https://imgur.com/Z8NfTEb.jpg",
+    "greet": true
+  },
+  {
+    "chance": 18,
+    "title": "Сова!",
+    "description" : "Это было немного скрыто, но я вижу это...",
+    "imageurl": "https://imgur.com/rAJMHMz.jpg"
+  },
+  {
+    "chance": 6,
+    "title": "Пылающий Волк!",
+    "description" : "Он буквально горит в огне!",
+    "imageurl": "https://imgur.com/bSvlFDw.gif",
+    "attack": true
+  },
+  {
+    "chance": 18,
+    "title": "Кинотеатр, удивительное место",
+    "description" : "Выключи телефон, фильм начнется!",
+    "imageurl": "https://imgur.com/YYc37Uf.jpg"
+  },
+  {
+    "chance": 18,
+    "title": "Нам нужен лес!",
+    "description" : "Я нашел здесь несколько деревьев, срубил их!",
+    "imageurl": "https://imgur.com/zg8EKUc.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Портал!",
+    "description" : "Что будет на другой стороне?",
+    "imageurl": "https://imgur.com/lmQlGpV.jpg"
+  },
+  {
+    "chance": 4,
+    "title": "Перейти на сокровище!",
+    "description" : "Что будет внутри?",
+    "imageurl": "https://imgur.com/uTb1zX2.jpg",
+    "opencrate": true
+  },
+  {
+    "chance": 20,
+    "title": "Что это за чертовщина?",
+    "description" : "Это вызывает у меня плохое предчувствие...",
+    "imageurl": "https://imgur.com/THShV1N.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Океан!",
+    "description" : "Без сомнения, очень красочное место...",
+    "imageurl": "https://imgur.com/IvJcmjv.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "¡Квибикс!",
+    "description" : "Как они очаровательны, некоторые просто дети.",
+    "imageurl": "https://imgur.com/5QCE2lz.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Красивый щенок",
+    "description" : "Я хотел бы иметь домашнее животное, как :)",
+    "imageurl": "https://imgur.com/AZrv9O0.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "VARYN",
+    "description" : "Это простой портрет, но легенда гласит, что это кто-то очень могущественный.",
+    "imageurl": "https://imgur.com/Ri9bw8J.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Город!",
+    "description" : "Это кажется довольно счастливым местом, постепенно оно прогрессирует.",
+    "imageurl": "https://imgur.com/tAN65OV.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Руины!",
+    "description" : "Что будет в этом месте? Океан хранит много секретов.",
+    "imageurl": "https://imgur.com/OHaJuu3.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Песок, деревья и пальмы",
+    "description" : "Какое прекрасное зрелище, оно похоже на пустыню с очень четко очерченными горами, это место очень похоже на большой каньон.",
+    "imageurl": "https://imgur.com/LPj37aD.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Водная пещера!",
+    "description" : "Кажется, интересное место, будет ли там какое-нибудь сокровище?",
+    "imageurl": "https://imgur.com/pJbiVRb.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Трещины и Башня",
+    "description" : "Здесь много растительности, деревьев, трещин и башен, идеальное место для начала...",
+    "imageurl": "https://imgur.com/KWBMTu4.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Потрясающий вид",
+    "description" : "Поколение мира довольно интересное, реки, озера, деревья, пещеры, разнообразный рельеф, этот мир очень интересен...",
+    "imageurl": "https://imgur.com/P1p3Dgi.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Сила Саммита",
+    "description" : "Иногда видение вещей с горы помогает мне узнать этот сказочный мир...",
+    "imageurl": "https://imgur.com/cAOc0jr.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Как любопытно!",
+    "description" : "В этом месте темнота не проблема, она выглядит довольно ярко!",
+    "imageurl": "https://imgur.com/Sx16BKi.jpg"
+  },
+  {
+    "chance": 12,
+    "title": "Семья!",
+    "description" : "Хотя это семейство цыплят, возможно, курица оставила яйцо, я соберу его и продам :cooking:",
+    "imageurl": "https://imgur.com/v9FB5Uk.jpg",
+    "egg": true
+  },
+  {
+    "chance": 12,
+    "title": "Маленькая река!",
+    "description" : "Этот Квебек выглядит счастливым, может, я смогу кое-что поймать в этом месте.",
+    "imageurl": "https://imgur.com/sXILbVz.jpg",
+    "fishing": true
+  },
+  {
+    "chance": 12,
+    "title": "Дракон льда!",
+    "description" : "Я должен поставить этого зверя на свое место!",
+    "imageurl": "https://imgur.com/fJiEGB9.jpg",
+    "attack": true
+  },
+  {
+    "chance": 20,
+    "title": "Новый рассвет!",
+    "description" : "В замерзших местах, когда луна скрыта, вы можете почувствовать немного покоя...",
+    "imageurl": "https://imgur.com/e4atnDY.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Подземелье!",
+    "description" : "Есть много мест, которые я должен изучить...",
+    "imageurl": "https://imgur.com/SfR3p3c.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Пора отдыхать",
+    "description" : "Не все для того, чтобы исследовать и сражаться, иногда вам просто нужно отдохнуть с хорошим огнем.",
+    "imageurl": "https://imgur.com/hhLPN8S.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Сколько видов!",
+    "description" : "Любопытно углубиться в океан, новые виды рыб, несколько затонувших кораблей и множество водорослей разных цветов.",
+    "imageurl": "https://imgur.com/Sw2IDwk.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "YETI!",
+    "description" : "Вам никогда не придется отступать, пришло время сражаться!",
+    "imageurl": "https://imgur.com/dOE14EY.jpg",
+    "attack": true
+  },
+  {
+    "chance": 20,
+    "title": "Зона Арида!",
+    "description" : "Там есть пальмы, кокосы и вода, ничего плохого, чтобы сделать меня убежищем.",
+    "imageurl": "https://imgur.com/T7hRKLU.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Кузница!",
+    "description" : "Ковать очень весело, теперь я смогу сражаться с новыми врагами.",
+    "imageurl": "https://imgur.com/QBjdu6W.jpg"
+  },
+  {
+    "chance": 20,
+    "title": "Подземные места!",
+    "description" : "Это довольно скрытое место, но очень впечатляет...",
+    "imageurl": "https://imgur.com/RJ5NQRL.jpg"
+  },
+  {
+    "chance": 8,
+    "title": "Trorks!",
+    "description" : "Я не думаю, что они дружелюбны, пришло время сражаться!",
+    "imageurl": "https://imgur.com/AYUuUwt.jpg",
+    "attack": true
+  }
+]

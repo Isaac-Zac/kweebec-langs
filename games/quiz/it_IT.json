@@ -1,0 +1,242 @@
+[
+  {
+    "question" : "Qual è il nome di questo nemico?",
+    "answer": "varyn",
+    "level": "easy",
+    "imageurl": "https://imgur.com/tAqpF1w.png"
+  },
+  {
+    "question" : "Qual è il nome di questo nemico?",
+    "answer": "yeti",
+    "level": "easy",
+    "imageurl": "https://imgur.com/7gwht6x.png"
+  },
+  {
+    "question" : "Quanti bambini ha la gallina?",
+    "answer": "4,quattro",
+    "level": "easy",
+    "imageurl": "https://imgur.com/AYizlim.png"
+  },
+  {
+    "question" : "Come si chiama questo personaggio?",
+    "answer": "kyros",
+    "level": "medium",
+    "imageurl": "https://imgur.com/SVTGU3Y.png"
+  },
+  {
+    "question" : "Qual è il nome di questo Mob?",
+    "answer": "lupo che brucia,emberwulf",
+    "level": "easy",
+    "imageurl": "https://imgur.com/BXptEgA.gif"
+  },
+  {
+    "question" : "Qual è il nome di questo Mob?",
+    "answer": "scarak",
+    "level": "easy",
+    "imageurl": "https://imgur.com/Tmq6BR6.png"
+  },
+  {
+    "question" : "Qual è il nome di questo pianeta?",
+    "answer": "orbis",
+    "level": "easy",
+    "imageurl": "https://imgur.com/aRDTkU7.png"
+  },
+  {
+    "question" : "Qual è il nome di questo pianeta?",
+    "answer": "nexus",
+    "level": "easy",
+    "imageurl": "https://imgur.com/CZafz9a.png"
+  },
+  {
+    "question" : "Qual è il nome di questo pianeta?",
+    "answer": "numdrassl",
+    "level": "easy",
+    "imageurl": "https://imgur.com/HB5RzjH.png"
+  },
+  {
+    "question" : "Qual è il nome di questo pianeta?",
+    "answer": "tor'balyn",
+    "level": "easy",
+    "imageurl": "https://imgur.com/EyLKPMj.png"
+  },
+  {
+    "question" : "Qual è il nome di questo pianeta?",
+    "answer": "karpak",
+    "level": "easy",
+    "imageurl": "https://imgur.com/7xDjVs8.png"
+  },
+  {
+    "question" : "Come si chiama questo Mob?",
+    "answer": "ratto di caverna,ratto",
+    "level": "easy",
+    "imageurl": "https://imgur.com/Wk7ylmk.png"
+  },
+  {
+    "question" : "Come si chiama questo Mob?",
+    "answer": "pipistrello",
+    "level": "easy",
+    "imageurl": "https://imgur.com/kRDwtAI.png"
+  },
+  {
+    "question" : "Come si chiama questo Mob?",
+    "answer": "colomba",
+    "level": "easy",
+    "imageurl": "https://imgur.com/RHpy1xo.png"
+  },
+  {
+    "question" : "Questa immagine rappresenta la Concept Art di un Boss finale Come si chiama?",
+    "answer": "ragno vuoto,void spider",
+    "level": "hard",
+    "imageurl": "https://imgur.com/cVV35cb.png"
+  },
+  {
+    "question" : "Nel trailer ufficiale, quale nemico avrebbe attaccato questo tipo?",
+    "answer": "yeti",
+    "level": "medium",
+    "imageurl": "https://imgur.com/kpsBKtu.png"
+  },
+  {
+    "question" : "Che razza è questa piccola? Poscritto: sembra un po 'come me...",
+    "answer": "kweebec",
+    "level": "easy",
+    "imageurl": "https://imgur.com/2gP1s0Q.gif"
+  },
+  {
+    "question" : "Come si chiama questo Mob?",
+    "answer": "colomba",
+    "level": "easy",
+    "imageurl": "https://imgur.com/UrIYhhG.gif"
+  },
+  {
+    "question" : "A quale mob attaccherà quei Sabre Denti?",
+    "answer": "antilope",
+    "level": "easy",
+    "imageurl": "https://imgur.com/Oq4zQtS.png"
+  },
+  {
+    "question" : "Come si chiama questo Mob?",
+    "answer": "gatto",
+    "level": "easy",
+    "imageurl": "https://imgur.com/IoniBgi.gif"
+  },
+  {
+    "question" : "Come si chiama questo Mob?",
+    "answer": "serpente",
+    "level": "easy",
+    "imageurl": "https://imgur.com/Cq1sOUX.gif"
+  },
+  {
+    "question" : "Qual è il nome di questo nemico?",
+    "answer": "trork",
+    "level": "easy",
+    "imageurl": "https://imgur.com/V5wdFW6.png"
+  },
+  {
+    "question" : "Qual è il nome di questo nemico?",
+    "answer": "tigre dai denti a sciabola",
+    "level": "medium",
+    "imageurl": "https://imgur.com/6ASrvbd.png"
+  },
+  {
+    "question" : "Come si chiama questo server?",
+    "answer": "hypixel",
+    "level": "medium",
+    "imageurl": "https://imgur.com/Ox0HNgZ.png"
+  },
+  {
+    "question" : "In quale lingua è programmato il client Hytale?",
+    "answer": "c#",
+    "level": "medium",
+    "imageurl": "https://imgur.com/cXSj4aX.png"
+  },
+  {
+    "question" : "In che lingua è programmata l'API del server Hytale?",
+    "answer": "java",
+    "level": "medium",
+    "imageurl": "https://imgur.com/KN67R6U.png"
+  },
+  {
+    "question" : "Che materiale sono questi blocchi?",
+    "answer": "pietra",
+    "level": "easy",
+    "imageurl": "https://imgur.com/BgXzLOL.png"
+  },
+  {
+    "question" : "Qual è il nome del CEO di Hypixel Studios?",
+    "answer": "simon",
+    "level": "medium",
+    "imageurl": "https://imgur.com/5gO7slt.png"
+  },
+  {
+    "question" : "Quale cactus è l'impostore? Sinistra o Destra?",
+    "answer": "sinistra",
+    "level": "easy",
+    "imageurl": "https://imgur.com/DXAXkQL.png"
+  },
+  {
+    "question" : "Come si chiama questo Mob?",
+    "answer": "antilope",
+    "level": "easy",
+    "imageurl": "https://imgur.com/GUs4J0n.gif"
+  },
+  {
+    "question" : "Come è noto questo tipo di blocco?",
+    "answer": "pilastri",
+    "level": "medium",
+    "imageurl": "https://imgur.com/5Dwmvm2.png"
+  },
+  {
+    "question" : "Chi ha costruito questo palazzo?",
+    "answer": "cptcharles",
+    "level": "hard",
+    "imageurl": "https://imgur.com/fDF3N0T.png"
+  },
+  {
+    "question" : "Una famiglia di?",
+    "answer": "cervo",
+    "level": "easy",
+    "imageurl": "https://imgur.com/y1znuen.png"
+  },
+  {
+    "question" : "Questa immagine è stata scattata all'interno di una?",
+    "answer": "grotta",
+    "level": "easy",
+    "imageurl": "https://imgur.com/5ABwtqn.png"
+  },
+  {
+    "question" : "Quale sottospecie di orso è questa?",
+    "answer": "grizzly",
+    "level": "medium",
+    "imageurl": "https://imgur.com/smvMZC2.png"
+  },
+  {
+    "question" : "Come si chiama questo Mob?",
+    "answer": "pesce palla",
+    "level": "easy",
+    "imageurl": "https://imgur.com/LVR7EJA.png"
+  },
+  {
+    "question" : "Questa immagine è stata scattata all'interno di?",
+    "answer": "cinema",
+    "level": "easy",
+    "imageurl": "https://imgur.com/fp5iBcu.png"
+  },
+  {
+    "question" : "Come si chiama questo Mob?",
+    "answer": "suricata,suricato,meerkat",
+    "level": "medium",
+    "imageurl": "https://imgur.com/jhGGbMm.png"
+  },
+  {
+    "question" : "Quante papere ci sono nella GIF?",
+    "answer": "3,tre",
+    "level": "easy",
+    "imageurl": "https://imgur.com/dS4Z9QK.gif"
+  },
+  {
+    "question" : "Come si chiama questo Mob?",
+    "answer": "rana",
+    "level": "easy",
+    "imageurl": "https://imgur.com/uCZUjaC.gif"
+  }
+]

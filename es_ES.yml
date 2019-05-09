@@ -1,0 +1,496 @@
+# Command Alias Section
+word_alias: 'Alias'
+
+cmd_alias_support: 'soporte'
+cmd_alias_setrestricted: 'restringir'
+cmd_alias_setchannelcmds: 'canalespermitidos'
+cmd_alias_addchannel: 'añadircanal'
+cmd_alias_removechannel: 'removercanal'
+cmd_alias_levelupmsg: 'mensajealsubirdenivel'
+cmd_alias_wiki: 'buscar'
+cmd_alias_pets: 'mascotas'
+cmd_alias_cmdinfo: 'informaciondelcomando'
+cmd_alias_addmoney: 'añadirdinero'
+cmd_alias_backpack: 'mochila'
+cmd_alias_cashicon: 'iconodedinero'
+cmd_alias_chop: 'talar'
+cmd_alias_energy: 'energia'
+cmd_alias_eval: 'evaluar'
+cmd_alias_explore: 'explorar'
+cmd_alias_farm: 'cultivar'
+cmd_alias_fight: 'pelear'
+cmd_alias_find: 'buscar'
+cmd_alias_fish: 'pescar'
+cmd_alias_heal: 'curar'
+cmd_alias_health: 'vida'
+cmd_alias_help: 'ayuda'
+cmd_alias_inventory: 'inventario'
+cmd_alias_lang: 'idioma'
+cmd_alias_levelup: 'mensajealsubirdenivel'
+cmd_alias_mine: 'minar'
+cmd_alias_money: 'dinero'
+cmd_alias_move: 'ir'
+cmd_alias_moves: 'lugares'
+cmd_alias_pet: 'mascota'
+cmd_alias_prefix: 'prefijo'
+cmd_alias_profile: 'perfil'
+cmd_alias_quiz: 'examen'
+cmd_alias_removemoney: 'removerdinero'
+cmd_alias_sell: 'vender'
+cmd_alias_setmoney: 'definirdinero'
+cmd_alias_setrespawn: 'definirtiempoderegeneracion'
+cmd_alias_shop: 'tienda'
+cmd_alias_shops: 'tiendas'
+cmd_alias_slot: 'tragamonedas'
+cmd_alias_steal: 'robar'
+cmd_alias_transfer: 'tranferir'
+cmd_alias_withdraw: 'retirar'
+cmd_alias_slotpattern: 'patrondeslot'
+cmd_alias_slotminbet: 'apuestaminimaslot'
+cmd_alias_invite: 'invitar'
+
+# Invite Section
+cmd_invite_title: 'Invita al bot a tu Servidor'
+cmd_invite_description: 'Con el link de abajo podrás invitar al bot a cualquiera de los servidores de Discord que administres.'
+cmd_invite_link: 'Link de Invitación'
+
+# General Section
+subcmd_incorrect_title: '¡Sub-comando incorrecto!'
+subcmd_incorrect_description: 'El sub-comando que intentas colocar es incorrecto, debes asegurarte de que está bien escrito. Si necesitas ayuda puedes colocar el comando {cmd}.'
+cmd_set_cashicon_changed_title: ¡Icono monetario cambiado correctamente!
+cmd_set_cashicon_changed_description: Has cambiado el icono monetario de {from} a {to}
+cmd_set_prefix_changed_title: ¡Prefijo cambiado correctamente!
+cmd_set_prefix_changed_description: Has cambiado el prefijo para ejecutar comandos de {from} a {to}
+cmd_set_levelupmsg_changed_title: ¡Mensaje cambiado correctamente!
+cmd_set_levelupmsg_changed_description: 'Has cambiado el mensaje al subir de nivel. El siguiente mensaje tendrá la visualización del resultado.'
+cmd_set_lang_changed_title: ¡Idioma cambiado correctamente!
+cmd_set_lang_changed_description: Has cambiado el lenguaje de {from} a {to}
+cmd_set_lang_title: Cambiar de lenguaje
+cmd_set_lang_description: Da click en la reacción que tiene la bandera del idioma especificado, luego de eso el bot automaticamente cambiará todos los mensajes, textos de imagenes generadas y frases del panel a ese idioma (algunos textos son traducidos con el traductor de Google).
+cmd_set_lang_available_langs: 'Lenguajes disponibles:'
+cmd_money_description: 'A continuación se mostrará todo tu dinero:'
+cmd_money_current_title: 'Dinero Actual'
+cmd_money_bank_title: 'Dinero en el Banco'
+cmd_money_total_title: 'Dinero Total'
+cmd_setmoney_title: ¡Dinero Actualizado!
+cmd_addmoney_title: ¡Dinero Añadido!
+cmd_heal_title: ¡Usuario Sanado!
+cmd_removemoney_title: ¡Dinero Removido!
+cmd_user_healed: La salud y energía de {user} han sido rellenadas.
+cmd_user_money_updated: El dinero actual de {user} ahora es de {cashicon}{money}
+cmd_respawntime_updated_title: ¡Tiempo de Regeneración Actualizado!
+cmd_respawntime_updated: El tiempo de regeneración ha pasado de ser de {old} segundos a {new} segundos, adicionalmente y para evitar errores, el tiempo de regeneración de todos los usuarios ha sido reseteado.
+word_commission: Comisión
+word_bankmoney: Dinero Bancario
+word_money: Dinero
+word_attention: Atención
+place_word_mine: Mina
+place_word_forest: Bosque
+place_word_island: Isla
+place_word_homestead: Granja
+place_word_dungeon: Mazmorra
+place_word_store: Tienda
+place_word_market: Mercado
+place_word_hospital: Hospital
+word_place: Lugar
+word_mine: Minar
+word_chop: Talar
+word_farm: Cultivar
+word_attack: Atacar
+word_pickup: Tomar
+word_greet: Saludar
+word_egg: Tomar
+word_fishing: Pescar
+word_common: Común
+word_normal: Normal
+word_rare: Raro
+word_epic: Épico
+word_legendary: Legendario
+available_action: 'Acción disponible: {action}'
+note: 'Nota:'
+exp_earned: +{exp} de experiencia
+money_earned: +{cashicon}{money} de dinero
+energy_earned: +{energy} de energía
+hearts_earned: +{hearts} de salud
+item_used: -{quantity} de {itemicon}{name}
+money_used: -{cashicon}{money} de dinero
+energy_used: -{energy} de energía
+hearts_used: -{hearts} de salud
+energy_needed: Esta acción te consumirá {energy} de energía.
+hearts_needed: Esta acción te puede quitar entre 0-{hearts} de vida.
+death_title: ¡Has muerto en combate!
+death_description: Al parecer tenias muy pocos corazones y has perdido la batalla, de momento has sido llevado al hospital y se te ha cobrado {cashicon}{money} por los servicios, además de que has perdido toda tu energía, pero almenos tu salud está completa.
+death_additional: '¡Por morir mientras robabas la mascota de {user} se ha quedado con {cashicon}{money} de dinero adicional!'
+insufficient_hearts: ¡Te has quedado sin salud!
+insufficient_energy: ¡Te has quedado sin energía!
+insufficient_funds: ¡Fondos insuficientes!
+insufficient_hearts_description: 'No tienes suficiente salud para realizar esta acción, puedes ver todos tus stats utilizando {profile}, esta es tu barra de salud:'
+insufficient_energy_description: 'No tienes suficiente energía para realizar esta acción, puedes ver todos tus stats utilizando {profile}, esta es tu barra de energía:'
+insufficient_funds_description: No tienes suficiente dinero para realizar esta acción, trata de conseguir más y vuelve a intentarlo.
+word_exploration_result: Resultados de la Exploración
+continue_exploration: Utiliza la reacción {reaction} para continuar explorando.
+exploration_result_description: Has utilizado la acción {icon}{action}
+regen_hearts_description: 'Tu vida se está regenerando poco a poco, dentro de {time} tendrás un punto adicional de vida.'
+regen_energy_description: 'Tu energía se está regenerando poco a poco, dentro de {time} tendrás un punto adicional de energía.'
+current_hearts_description: 'Actualmente posees una salud de {hearts}, recuerda que para incrementar tu salud maxima debes subir de nivel, además recuerda que la salud se regenera en intervalos de tiempo, por lo cual regenerarás un punto de salud gastado al pasar cierta cantidad de tiempo.'
+current_energy_description: 'Actualmente posees una energía de {energy}, recuerda que para incrementar tu energía maxima debes subir de nivel, además recuerda que la energía se regenera en intervalos de tiempo, por lo cual regenerarás un punto de energía gastado al pasar cierta cantidad de tiempo.'
+word_current_hearts: Tu Salud Actual
+word_current_energy: Tu Energía Actual
+word_current_hearts_bar: Tu Barra de Salud
+word_current_energy_bar: Tu Barra de Energía
+word_current_money: Tu Dinero Actual
+word_current_bankmoney: Tu Dinero en el Banco
+word_command_price: Precio del Comando
+auto_destroy: Este mensaje se autodestruirá en {seconds} segundos...
+word_usage_example: Ejemplo de Uso
+word_command: Comando
+word_description: Descripción
+word_link_article: Link
+word_edit_article: Editar
+word_create_article: Crear Artículo
+word_source: Fuente
+word_article: Artículo
+word_language: Idioma
+word_seconds: Segundos
+used_energy_footer: 'Esta acción le ha costado -{energy} de energía a {user}.'
+used_energy_and_hearts_footer: 'Esta acción le ha costado -{energy} de energía y -{hearts} de salud a {user}.'
+erroneous_args: ¡Argumento erroneo!
+user_not_found: ¡Usuario no encontrado!
+cmd_user_not_found: Al parecer el usuario {user} no pertenece al servidor o no lo he podido encontrar, verifica que lo hayas mencionado correctamente e intenta ejecutar el comando de nuevo.
+cmd_erroneous_args: Ups, al parecer has escrito un argumento erroneo. Verifica que todo este bien escrito y que los argumentos sean del tipo de dato que se pide, si quieres ver los argumentos de los comandos para guiarte puedes utilizar el comando {help}, allí estará toda la información.
+incorrect_place_title: ¡Lugar Incorrecto!
+incorrect_place_description: Para ejecutar este comando necesitas ubicarte en el lugar adecuado, y actualmente tu localización es {place}, utiliza el comando {cmd} para viajar al lugar indicado que en este caso sería {right}.
+not_enough_args: ¡Te hacen falta argumentos!
+cmd_not_args: Rectifica que hayas escrito todo correctamente, puedes utilizar el commando {help} para ver todos los argumentos disponibles del comando que estás intentando ejecutar.
+cmd_wiki_searching_title: Buscando información sobre '{article}'...
+cmd_wiki_searching_description: Este mensaje será modificado una vez se encuentren resultados sobre el artículo que estás buscando.
+cmd_wiki_searching_footer: Se está utilizando el fandom en idioma {source} como fuente.
+cmd_wiki_noimage_footer: El artículo aún no tiene imágenes para mostrar.
+cmd_wiki_image_footer: "Imagen {page}, Descripción: {caption}"
+article_not_found: "¡No se encontró ningún resultado para el articulo '{article}'!"
+article_not_found_description: Revisa que hayas escrito todo correctamente, en caso que esté todo bien escrito se puede deber a que actualmente dicho articulo no existe en la wiki, puedes crearlo con los links de abajo o también puedes intentar buscándolo manualmente en la wiki.
+cmd_quiz_description: Un nuevo examen ha sido iniciado por {user}, cualquiera puede participar, simplemente quien escriba la respuesta correcta ganará.
+cmd_quiz_won_title: ¡{user} ha ganado el examen!
+cmd_quiz_won_description: '{user} ganó en {seconds} segundos, y se ha hecho con el botín.'
+cmd_quiz_won_footer: El examen iniciado por {user} fue finalizado.
+cmd_quiz_finalized_title: ¡El examen ha finalizado!
+cmd_quiz_finalized_description: Nadie respondió correctamente a la pregunta y el tiempo para completar el examen fue finalizado. ¡Suerte a la próxima!
+cmd_quiz_already_title: ¡Ya existe un examen sin completar aquí!
+cmd_quiz_already_description: Para poder iniciar un nuevo examen en este canal debes esperar a que el examen actual sea completado por alguien o finalice sin respuestas.
+quiz_endtime: Finaliza En
+quiz_canwin: Podrás Ganar
+trigger_levelup_text: "🏅 ¡{user} has subido de nivel!\n🔹 Ahora eres nivel {level}\n🔹 Tu salud y energía han sido regeneradas\n🔹 Has ganado {cashicon}{money} por subir de nivel"
+blocked_cmd: ¡Comando Bloqueado!
+not_autorized_owner_description: Necesitas ser el dueño de este servidor para ejecutar ese comando.
+not_autorized_description: Necesitas tener el permiso de Administrador en este servidor para ejecutar ese comando.
+user_location: 'Actualmente te encuentras en: {place}'
+cmd_moves_title: Lugares Disponibles
+cmd_moves_description: 'Los lugares disponibles son:'
+cmd_move_sucess_title: ¡Localización Cambiada!
+cmd_move_sucess_description: Has cambiado tu localización de {old} a {new}.
+cmd_move_already_title: ¡Ya te encuentras en ese lugar!
+cmd_move_already_description: Actualmente ya te encuentras en {place}, si lo que buscas es ir a otro lugar intenta cambiar el argumento del comando y vuelve a intentarlo.
+backpack_full_title: ¡Mochila demasiado llena!
+backpack_full_description: Tu mochila está demasiado llena para realizar está acción, deberías ir a la tienda con el comando {warp} y luego con {shop} comprar una nueva mochila más grande, o también puedes vender tus items actuales en el mercado utilizando {market} y luego {sell}...
+word_work_result: Resultados del Trabajo
+work_result_description: Has utilizado el trabajo {work} mientras estabas en {icon}{place}.
+won_items: 'Puedes utilizar {cmd} para ver tu mochila, items conseguidos:'
+continue_work: Utiliza la reacción {reaction} para continuar trabajando.
+cmd_backpack_title: Tu Mochila
+cmd_backpack_empty: Aún no tienes items, prueba trabajar y así conseguir más.
+cmd_backpack_cansell: Si estás en el mercado puedes utilizar el comando {cmd} para vender tus items y conseguir dinero a cambio.
+cmd_backpack_items: 'Actualmente tienes los siguientes items:'
+cmd_backpack_footer: 'Página {page}, Tamaño Total: {total}, Tamaño Máximo: {max}'
+cmd_sell_empty_title: ¡Necesitas Items!
+cmd_sell_empty_description: No tienes nada para vender, necesitas conseguir items trabajando y luego podrás venderlos.
+cmd_sell_sucess_title: ¡Has vendido {items} items!
+cmd_sell_sucess_description: 'Los items que has vendido son:'
+cmd_sell_sucess_footer: 'Página {page}, Ganancia Total: {total}'
+not_permissions_title: '¡Kweebec no tiene permisos!'
+not_permissions_description: 'Debes asignarle al bot un rol con permisos de Administrador para que pueda acceder a todo lo necesario y así garantizar su funcionamiento. En caso de que desees añadirle solo el permiso necesario para ejecutar esta acción aquí te dejo la información del permiso faltante: {info}'
+weird_error_title: 'Ha ocurrido un error inesperado'
+weird_error_description: 'Al parecer ha ocurrido un error inesperado durante la ejecución de este comando, puedes utilizar el comando {cmd} para contactar con el soporte e intentar solucionar el problema.'
+already_has_item_title: ¡Ya tienes ese item!
+already_has_item_description: El objeto/item/mascota {item} solo puede ser obtenido una unica vez, por lo cual no puedes tener 2 al mismo tiempo.
+insufficient_items: ¡No tienes suficientes items!
+insufficient_items_description: Necesitas conseguir más del item requerido para ejecutar esta acción.
+word_item: 'Item:'
+word_necessary: 'Necesitas:'
+word_have: 'Tienes:'
+
+# Tooltips Section
+cmd_slotminbet_tooltip: 'Te permite definir la apuesta minima que se necesita para utilizar la maquina tragamonedas.'
+cmd_slotpattern_tooltip: 'Te permite definir el patrón de emoticonos que se utilizarán en la maquina tragamonedas, recuerda que no debes encerrarlos entre dos puntos(:) y que no deben haber espacios, simplemente es necesario separarlos con comas. Además como minimo se requieren 5 emoticonos.'
+cmd_mine_tooltip: 'Mientras te encuentres en la mina con este comando podrás trabajar de minero y ganar algunos items.'
+cmd_chop_tooltip: 'Mientras te encuentres en el bosque con este comando podrás trabajar de leñador y ganar algunos items.'
+cmd_fish_tooltip: 'Mientras te encuentres en la isla con este comando podrás trabajar de pescador y ganar algunos items.'
+cmd_farm_tooltip: 'Mientras te encuentres en la granja con este comando podrás trabajar de agricultor y ganar algunos items.'
+cmd_support_tooltip: 'Este comando te dará el link de ingreso al servidor oficial de soporte.'
+cmd_profile_tooltip: 'Te muestra todas tus estadisticas, además si mencionas a otro jugador podrás ver su perfil.'
+cmd_setrespawn_tooltip: 'Defines el tiempo de regeneración del servidor en general, este tiempo es en segundos y una vez cambiado la vida y energía de todos los jugadores se regenerará por completo.'
+cmd_setrestricted_tooltip: 'Te permite restringir el uso del bot en todos los canales, por lo cual el bot solo funcionará en los canales que añadas con los comandos especificos.'
+cmd_transfer_tooltip: 'Con este comando podrás transferir dinero a tu cuenta bancaria.'
+cmd_withdraw_tooltip: 'Con este comando podrás retirar dinero de tu cuenta bancaria.'
+cmd_money_tooltip: 'Te permite ver tu dinero actual, tu dinero en el banco y tu dinero total.'
+cmd_setmoney_tooltip: 'Con este comando podrás definir el dinero de un jugador, recuerda que el dinero definido no es de su cuenta bancaria.'
+cmd_removemoney_tooltip: 'Con este comando podrás removerle dinero a un jugador, sin embargo recuerda que el dinero removido no es de su cuenta bancaria.'
+cmd_addmoney_tooltip: 'Con este comando podrás añadirle dinero a un jugador, sin embargo recuerda que el dinero añadido no es de su cuenta bancaria.'
+cmd_heal_tooltip: 'Te permite curar a un jugador, restaurando así su barra de energía y vida.'
+cmd_lang_tooltip: 'Este comando te permitirá cambiar el idioma del bot.'
+cmd_wiki_tooltip: 'Por medio de este comando podrás buscar un articulo de Hytale en la wiki FANDOM, para así poder ver toda la información al respecto.'
+cmd_removechannel_tooltip: 'Con este comando podrás remove un canal de la lista de canales sin restricción, por lo cual el bot no funcionaría en dicho canal.'
+cmd_addchannel_tooltip: 'Con este comando podrás añadir un canal a la lista de canales sin restricción, por lo cual el bot funcionaría perfectamente en dicho canal.'
+cmd_quiz_tooltip: 'Te permite iniciar un nuevo examen donde todos los usuarios pueden participar y quien gane se puede llevar un jugoso botín.'
+cmd_explore_tooltip: 'Con este comando podrás aventurarte y visualizar imagenes asombrosas de Hytale, además existe la posibilidad de que algunas tengan acciones disponibles y así puedas ganar algo de dinero.'
+cmd_steal_tooltip: 'Te permite robarle a alguien, es necesario que tengas un arma en tu inventario, en caso de que la tengas simplemente menciona como argumento al usuario al cual quieres robarle, recuerda que si el usuario tiene alguna mascota seleccionada esta le puede defender e incluso contra-atacar.'
+cmd_shops_tooltip: 'Te muestra todas las tiendas disponibles para así poder acceder a ellas con el comando general de las tiendas.'
+cmd_cmdinfo_tooltip: 'Este comando te permitirá ver la información de un comando, desde su uso hasta su descripción.'
+cmd_inventory_tooltip: 'Revisa todos los items que posees, estos items los conseguirás por medio de las diferentes tiendas existentes.'
+cmd_pet_tooltip: 'Este comando te permitirá administrar tus mascotas, si colocas el argumento **name**, podrás cambiarle el nombre a tu mascota seleccionada. En caso de que no tengas alguna mascota seleccionada te abrirá el selector de mascotas, en caso de que sí tengas una mascota seleccionada podrás acceder a la vista previa de tu mascota.'
+cmd_help_tooltip: 'Te mostrará todos los comandos a los cuales puedes acceder del bot, además estarán en categorías por lo cual podrás ubicarlos facilmente.'
+cmd_levelupmsg_tooltip: 'Con este comando podrás cambiar el mensaje que se muestra al subir de nivel, puedes utilizar ciertas variables, pero ten en cuenta que si cambias el que viene por defecto el mensaje no será mostrado con RichEmbed (por motivos de seguridad). Si deseas resetear el mensaje puedes colocar como argumento #default para volver al mensaje original con RichEmbed.'
+cmd_moves_tooltip: Te muestra todo los lugares disponibles para cambiar de localización y así desbloquear nuevos trabajos.
+cmd_cashicon_tooltip: 'Te permitirá cambiar el prefijo que se utiliza para representar el dinero en el bot, puedes elegir el que tu quieras, incluyendo emojis, aunque tendrás algunas limitaciones. Te recomiendo elegir cosas simples como :dollar:, :gem:, $, ₿, €'
+cmd_prefix_tooltip: Te permitirá cambiar el prefijo que se utiliza para ejecutar comandos con el bot, puedes elegir el que tu quieras, aunque tendrás algunas limitaciones. Te recomiendo elegir caracteres simples como /, !, >, %, .
+cmd_slot_tooltip: Utiliza la maquina tragamonedas y apuesta cierto dinero, si llegas a conseguir las 3 combinaciones ganas dinero adicional!
+cmd_backpack_tooltip: Te permite ver todos los items que tienes en la mochila, estos items los podrás vender y así conseguir dinero.
+cmd_sell_tooltip: Con este comando podrás vender todos los items que tienes en tu mochila para así recibir dinero a cambio.
+cmd_move_tooltip: Cambia de localización y accede a trabajos o comandos que solo podrás usar en un lugar especifico.
+cmd_shop_tooltip: 'Con este comando podrás abrir el menú de selección de una tienda especifica para así poder comprar items, desde comida hasta armas y mascotas. Recuerda que para poder utilizar este comando debes estar en el lugar tienda.'
+
+# Profile Section
+cmd_profile_title: 'Tu Perfil'
+cmd_profile_other_title: 'Perfil de {user}'
+word_fnone: 'Ninguna'
+word_mnone: 'Ninguno'
+word_level: 'Nivel'
+word_health: 'Salud'
+word_energy: 'Energía'
+word_profile_pet: 'Mascota Actual'
+word_profile_pet_quantity: 'Cantidad de Mascotas'
+
+# Support Section
+cmd_support_title: 'Información del Soporte'
+cmd_support_description: 'Puedes acceder al Discord oficial para el soporte del bot, este servidor está diseñado para el uso exclusivo en el caso de encontrar bugs, problemas, palabras aún no traducidas, etc. Además tendrás otras referencias para ayudarte a encontrar una forma eficiente de atención.'
+cmd_support_discord: 'Discord del Soporte'
+cmd_support_creator: 'Creador del Bot'
+cmd_support_sponsor: 'Sponsor Oficial'
+
+# SlotMinBet Section
+cmd_slotminbet_sucess_title: '¡Apuesta minima fijada!'
+cmd_slotminbet_sucess_description: 'Se ha cambiado la apuesta minima a {cashicon}{minbet} correctamente.'
+
+# SlotPattern Section
+cmd_slotpattern_sucess_title: '¡Patrón cambiado correctamente!'
+cmd_slotpattern_sucess_description: 'Se ha cambiado el patrón de emoticonos de la maquina tragamonedas a {pattern}.'
+cmd_slotpattern_minerror_title: '¡Se necesitan más emoticonos!'
+cmd_slotpattern_minerror_description: 'Se deben definir como minimo {min} emoticonos para el patrón que será utilizado en la maquina tragamonedas.'
+
+# Slot Section
+cmd_slot_won: Has ganado {cashicon}{money}
+cmd_slot_lose: Has perdido {cashicon}{money}
+cmd_slot_min_error_title: '¡Necesitas apostar mas dinero!'
+cmd_slot_min_error_description: 'Debes apostar como mínimo {cashicon}{money}.'
+
+# CmdInfo Section
+cmd_info_found_title: '¡Información del Comando!'
+cmd_info_found_description: 'A continuación podrás ver el comando, ejemplo de uso e información o descripción del mismo:'
+cmd_info_notfound_title: '¡Comando no encontrado!'
+cmd_info_notfound_description: 'El comando {cmd} no fue encontrado, asegurate de que no estes colocando el prefijo y que todo se encuentre bien escrito.'
+
+# Help Section
+cmd_help_title: 'Todos los Comandos'
+cmd_help_description: 'A continuación se mostrarán todos los comandos y sus categorias, si quieres saber información especifica de un comando debes colocar {cmd}.'
+cmd_help_fun_section: 'Comandos de Diversión'
+cmd_help_economy_section: 'Comandos de Economia'
+cmd_help_info_section: 'Comandos de Información'
+cmd_help_admin_section: 'Comandos de Administración'
+cmd_help_owner_section: 'Comandos del Dueño'
+cmd_help_root_section: 'Comandos del Desarrollador'
+
+# Restricted Section
+word_yes: 'Si'
+word_no: 'No'
+cmd_channel_changed_title: '¡Comandos del canal ajustados!'
+cmd_channel_changed_description: 'Has cambiado los comandos disponibles en este canal a {new}.'
+add_channel_sucess_title: '¡Canal añadido!'
+add_channel_sucess_description: 'El canal {channel} ha sido añadido correctamente a la lista de canales sin restricción.'
+add_channel_already_title: '¡El canal ya ha sido añadido!'
+add_channel_already_description: 'El canal {channel} ya ha sido añadido a la lista de canales permitidos por el bot.'
+remove_channel_sucess_title: '¡Canal removido!'
+remove_channel_sucess_description: 'El canal {channel} ha sido removido correctamente de la lista de canales sin restricción.'
+remove_channel_already_title: '¡El canal ya ha sido removido!'
+remove_channel_already_description: 'El canal {channel} ya ha sido removido de la lista de canales permitidos por el bot.'
+restricted_disabled_title: '¡Restricción de canales desactivada!'
+restricted_disabled_description: 'Para poder utilizar este comando debes activar la restricción de canales con el comando {cmd}.'
+cmd_restricted_already_title: '¡El estado es el mismo!'
+cmd_restricted_already_description: 'El estado de restricción de canales que intentas colocar ya es el actual, debes elegir otro estado.'
+cmd_restricted_updated_title: '¡Restricción de canales cambiada!'
+cmd_restricted_update_description_enabled: 'Se ha activado la restricción por canales, ahora podrás añadir o remover canales donde se podrá utilizar el bot, para ello deberás escribir en el canal de texto {addcmd} y {removecmd} para añadir y remover canales respectivamente.'
+cmd_restricted_update_description_disabled: 'Se ha desactivado la restricción por canales, ahora el bot funciona en todos los canales en los cuales puede leer y enviar mensajes. Además todos los canales añadidos a la lista de canales con restricción han sido removidos.'
+
+# Bank Section
+word_all: 'Todo'
+withdraw_money_title: '¡Dinero retirado!'
+withdraw_money_description: 'Se han retirado {cashicon}{money} de tu cuenta bancaria correctamente, utiliza {cmd} para ver todo tu dinero.'
+transfer_money_title: '¡Dinero transferido!'
+transfer_money_description: 'Se han transferido {cashicon}{money} a tu cuenta bancaria correctamente, utiliza {cmd} para ver todo tu dinero.'
+transfer_money_cost_footer: 'Esta acción le ha costado -{money} de dinero a {user}.'
+insufficient_transfer_money_title: '¡Dinero insuficiente!'
+insufficient_transfer_money_description: 'Recuerda que el banco te cobrará adicionalmente {cashicon}{cost} por la transferencia y al parecer no lo posees, revisa tu dinero con {cmd}.'
+
+# Pet Section
+
+changed_name_title: '¡Nombre cambiado!'
+changed_name_description: 'Ahora tu mascota se llama {name}, puedes verla con el comando {cmd}.'
+invalid_name_title: '¡Nombre invalido!'
+invalid_name_description: 'El nombre {name} tiene caracteres invalidos, remuévelos y vuelve a intentarlo.'
+pet_name_too_short_title: '¡Nombre demasiado corto!'
+pet_name_too_short_description: 'El nombre {name} es demasiado corto, debe tener como mínimo {min} caracteres.'
+pet_name_too_long_title: '¡Nombre demasiado largo!'
+pet_name_too_long_description: 'El nombre {name} es demasiado largo, debe tener como máximo {max} caracteres.'
+need_name_title: '¡Debes colocar el nombre!'
+need_name_description: El comando para cambiar el nombre de tu mascota es {cmd}. Asegurate de que lo estes escribiendo bien y vuelve a intenarlo.
+word_name: 'Nombre'
+word_pet: 'Mascota:'
+word_pet_health: 'Salud'
+word_pet_respawn: 'Regeneración'
+word_pet_petting: 'Caricias'
+word_pet_level: 'Nivel'
+word_pet_name: 'Nombre'
+move_pet_powered_bonus: 'BONUS {icon}{name}, no pierdes energía por tu mascota.'
+already_pet_selected_title: ¡Ya tienes seleccionada una mascota!
+already_pet_selected_description: Para poder seleccionar una mascota todas deben estar capturadas, ingresa el comando {cmd} para capturar tu mascota actual.
+pet_select_title: ¡Mascota seleccionada!
+pet_select_description: Has seleccionado a {name} correctamente, ahora puedes ver a tu mascota con el comando {cmd}.
+all_pets_lvl_acronym: 'NV.'
+all_pets_title: Tus Mascotas
+all_pets_selected: Actualmente tienes seleccionada tu mascota {pet}
+all_pets_description: Aquí podrás ver todas tus mascotas, si deseas seleccionar alguna debes reaccionar con el numero de la mascota.
+all_pets_footer: 'Página {page}, Mascotas Totales: {total}'
+pet_viewer_footer: '{petting} - Acariciar, {feed} - Alimentar, {capture} - Capturar'
+pet_captured_title: ¡Tu mascota ha sido capturada!
+pet_captured_description: Has capturado a {pet} y se ha deseleccionado correctamente, si deseas ver todas tus mascotas y/o seleccionar otra utiliza el comando {cmd}.
+pet_level_up_title: ¡{pet} ha subido de nivel!
+pet_level_up_description: '{pet} ahora es nivel {level} y su barra de salud ha sido regenerada completamente.'
+exp_pet_earned: +{exp} de experiencia para la mascota
+hearts_pet_earned: +{hearts} de salud para la mascota
+hearts_pet_used_of: -{hearts} de salud para la mascota de {user}
+not_selected_pet_title: ¡Esta mascota no está seleccionada!
+not_selected_pet_description: Primero debes seleccionar a {pet} para realizar esta acción.
+pet_feed_title: ¡Has alimentado a {pet}!
+pet_feed_description: Alimentar a tu mascota te permitirá ganar puntos de experiencia tanto a tí como a ella, además regenerarás su vida en caso de que le falten puntos de salud.
+pet_caress_title: ¡Has acariciado a {pet}!
+pet_caress_description: Acariciar a tu mascota te permitirá ganar puntos de experiencia tanto a tí como a ella, y así juntos podrán subir de nivel y ganar más puntos de salud maxima.
+pet_not_has_title: ¡Aún no tienes mascotas!
+pet_not_has_description: Debes comprar almenos una mascota en la tienda, utiliza el comando {cmd} para acceder a la tienda de mascotas. Recuerda que una mascota es muy importante porque te protegerá cuando alguien intente robarte.
+pet_buy_success_title: ¡Has adquirido una nueva mascota!
+pet_buy_success_description: ¡Has comprado una nueva mascota por un precio de {cashicon}{money}! Tu mascota se llama {name} y ha sido seleccionada, podrás cambiarle su nombre con {cmd}.
+pet_buy_has_all_title: ¡Ya has comprado todo!
+pet_buy_has_all_description: No hay mas mascotas para comprar aún, revisa en otro momento...
+pet_feed_completed_title: ¡Tu mascota ya comió suficiente!
+pet_feed_completed_description: '{pet} ya tiene todos sus corazones regenerados.'
+pet_word_baby_kweebec: Kweebec Bebé
+pet_word_dove: Paloma
+pet_word_cat: Gato
+pet_word_snake: Serpiente
+pet_word_crab: Cangrejo
+pet_word_cow: Vaca Montañosa
+
+# Inventory Section
+cmd_inventory_title: Tu Inventario
+cmd_inventory_empty: Inventario vacío, compra items en la tienda, puedes utilizar el comando {cmd} para ver todas las tiendas disponibles.
+cmd_inventory_items: 'Tus Items:'
+cmd_inventory_footer: 'Página {page}, Items Totales: {total}'
+
+# Steal Section
+victim_word: 'Victima:'
+thief_word: 'Ladrón:'
+steal_not_have_money_title: '¡{victim} no tiene dinero!'
+steal_not_have_money_description: 'Mientras intentabas robarle a {victim} te has percatado que no tenía dinero, las estadisticas del robo han sido:'
+money_stolen: '+{cashicon}{money} de dinero robado'
+steal_sucess_title: '¡{user} le ha robado a {victim}!'
+steal_sucess_description: 'Has conseguido robarle a {victim} exitosamente, las estadisticas del robo han sido:'
+steal_victimdefend: '¡{user} ha sido defendido!'
+steal_counterattack: '¡La mascota de {user} a contra-atacado!'
+steal_heart_defend: '¡No has perdido corazones!'
+steal_weapon_good: '¡Tu arma a resistido esta batalla!'
+steal_pet_defend_title: '¡{pet} ha defendido a {user}!'
+steal_pet_defend_description: 'La mascota de {user} le ha defendido y no has logrado robarle, las estadisticas de la batalla han sido:'
+cannot_steal_yourself_title: '¡No te puedes robar a ti mismo!'
+cannot_steal_yourself_description: 'Elige a otro usuario diferente a ti y vuelve a intentarlo.'
+steal_need_weapon_title: '¡Necesitas un arma!'
+steal_need_weapon_description: 'Para poder robarle a {user} es necesario que tengas un arma en tu inventario, puedes comprar una utilizando {cmd}. Recuerda que existen armas con mayor durabilidad que otras.'
+
+# Weapons Section
+weapon_buy_success_title: ¡Has comprado un arma!
+weapon_buy_success_description: Has comprado {buy} a un precio de {cashicon}{money}, puedes ver todas tus armas utilizando {cmd}.
+weapon_word_wood_sword: Espada de Madera
+weapon_word_iron_sword: Espada de Hierro
+weapon_word_demonic_axe: Hacha Demoniaca
+
+# Backpack Section
+backpack_word_feran: 'Mochila de los Ferans'
+backpack_word_kweebec: 'Mochila de los Kweebecs'
+backpack_word_trork: 'Mochila de los Trorks'
+backpack_buy_success_title: ¡Has comprado una nueva mochila!
+backpack_buy_success_description: Has comprado una {buy} a un precio de {cashicon}{money}, ahora tu espacio máximo en la mochila es de {newsize} items.
+
+# Food Section
+food_word_feeding_bottle: Biberón
+food_word_raw_rice: Arroz
+food_word_sushi: Sushi
+food_word_chickenthigh: Muslo de Pollo
+food_word_tuna: Atún
+food_word_grass: Pasto
+food_buy_success_title: ¡Has comprado comida!
+food_buy_success_description: Has comprado {buy} a un precio de {cashicon}{money}, puedes ver tu comida utilizando {cmd} o alimentar a tu mascota con {petcmd}.
+
+# Shop Section
+cmd_shops_title: 'Tiendas Disponibles'
+cmd_shop_buy_strikethrough: 'Si el item sale tachado, es porque ya lo posees y solo lo puedes comprar una unica vez o también se puede deber a que ya tienes uno mejor del mismo tipo.'
+cmd_shop_available_objects: 'Objetos Disponibles:'
+cmd_shop_available_objects_footer: 'Página {page}, Objetos Totales: {total}'
+shop_empty_category: Esta tienda no tiene items para vender.
+shop_category_description_pets: Las macotas te permitirán tener una protección anti-robos, ya que te defenderán si algún ladron te intenta robar e incluso si vencen al ladron podrían generarte dinero a cambio, pero si son vencidas estás expuesto a que te roben el dinero que no tengas en el banco. Además tener una mascota conlleva una gran responsabilidad, deberás darle de comer, acariciarla y demás.
+shop_category_description_food: La comida es utilizada para alimentar a tus mascotas y así regenerar los corazones que perdieron mientras te defendian, recuerda que cuando tu mascota tiene solo un corazon no peleará para defender tu dinero y te pueden robar.
+shop_category_description_weapons: Con un arma podrás bloquear el daño de las mazmorras, además las armas te permitirán robarle dinero a una persona, aunque no podrás robar el dinero que tienen en su cuenta bancaria.
+shop_category_description_backpacks: Con una mejor mochila podrás disfrutar de un mayor espacio de almacenamiento de items, así no tendrás que hacer tantos viajes seguidos al mercado y poder ahorrar algo de energía.
+shop_category_title_weapons: Tienda de Armas
+shop_category_title_backpacks: Tienda de Mochilas
+shop_category_title_pets: Tienda de Mascotas
+shop_category_title_food: Tienda de Comida
+shop_category_word_weapons: Armas
+shop_category_word_backpacks: Mochilas
+shop_category_word_pets: Mascotas
+shop_category_word_food: Comida
+
+# Items Section
+
+item_trunk: Tronco
+item_wood: Madera
+item_leaves: Hojas
+item_fruit: Fruta
+item_stone: Piedra
+item_dirt: Tierra
+item_sand: Arena
+item_cotton: Algodon
+item_carrot: Zanahoría
+item_eggplant: Berenjena
+item_tulip: Tulipan
+item_sunflower: Girasol
+item_bone: Hueso
+item_skeleton_head: Cabeza de Esqueleto
+item_trork_sword: Espada Trork
+item_helmet: Casco
+item_shell_of_scarak: Caparazón de Scarak
+item_fish: Pescado
+item_clownfish: Pez Payaso
+item_crab: Cangrejo
+item_surgeonfish: Pez Cirujano
+item_blowfish: Pez Globo
+item_copper: Cobre
+item_iron: Hierro
+item_titanium: Titanio
+item_cobalt: Cobalto
+item_ethereal: Material Etéreo

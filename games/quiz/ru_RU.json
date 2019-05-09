@@ -1,0 +1,242 @@
+[
+  {
+    "question" : "What is the name of this enemy?",
+    "answer": "varyn",
+    "level": "easy",
+    "imageurl": "https://imgur.com/tAqpF1w.png"
+  },
+  {
+    "question" : "What is the name of this enemy?",
+    "answer": "yeti",
+    "level": "easy",
+    "imageurl": "https://imgur.com/7gwht6x.png"
+  },
+  {
+    "question" : "How many children does the hen have?",
+    "answer": "4,four",
+    "level": "easy",
+    "imageurl": "https://imgur.com/AYizlim.png"
+  },
+  {
+    "question" : "What is the name of this character?",
+    "answer": "kyros",
+    "level": "medium",
+    "imageurl": "https://imgur.com/SVTGU3Y.png"
+  },
+  {
+    "question" : "What is the name of this Mob?",
+    "answer": "emberwulf",
+    "level": "easy",
+    "imageurl": "https://imgur.com/BXptEgA.gif"
+  },
+  {
+    "question" : "What is the name of this Mob?",
+    "answer": "scarak",
+    "level": "easy",
+    "imageurl": "https://imgur.com/Tmq6BR6.png"
+  },
+  {
+    "question" : "What is the name of this planet?",
+    "answer": "orbis",
+    "level": "easy",
+    "imageurl": "https://imgur.com/aRDTkU7.png"
+  },
+  {
+    "question" : "What is the name of this planet?",
+    "answer": "nexus",
+    "level": "easy",
+    "imageurl": "https://imgur.com/CZafz9a.png"
+  },
+  {
+    "question" : "What is the name of this planet?",
+    "answer": "numdrassl",
+    "level": "easy",
+    "imageurl": "https://imgur.com/HB5RzjH.png"
+  },
+  {
+    "question" : "What is the name of this planet?",
+    "answer": "tor'balyn",
+    "level": "easy",
+    "imageurl": "https://imgur.com/EyLKPMj.png"
+  },
+  {
+    "question" : "What is the name of this planet?",
+    "answer": "karpak",
+    "level": "easy",
+    "imageurl": "https://imgur.com/7xDjVs8.png"
+  },
+  {
+    "question" : "What is the name of this Mob?",
+    "answer": "cave rat,rat",
+    "level": "easy",
+    "imageurl": "https://imgur.com/Wk7ylmk.png"
+  },
+  {
+    "question" : "What is the name of this Mob?",
+    "answer": "bat,cave bat",
+    "level": "easy",
+    "imageurl": "https://imgur.com/kRDwtAI.png"
+  },
+  {
+    "question" : "What is the name of this Mob?",
+    "answer": "dove",
+    "level": "easy",
+    "imageurl": "https://imgur.com/RHpy1xo.png"
+  },
+  {
+    "question" : "This image represents the Concept Art of a final Boss. What is your name?",
+    "answer": "void spider",
+    "level": "hard",
+    "imageurl": "https://imgur.com/cVV35cb.png"
+  },
+  {
+    "question" : "In the official trailer, which enemy was going to attack this guy?",
+    "answer": "yeti",
+    "level": "medium",
+    "imageurl": "https://imgur.com/kpsBKtu.png"
+  },
+  {
+    "question" : "What race is this baby? It looks a bit like me...",
+    "answer": "kweebec",
+    "level": "easy",
+    "imageurl": "https://imgur.com/2gP1s0Q.gif"
+  },
+  {
+    "question" : "What is the name of this Mob?",
+    "answer": "dove",
+    "level": "easy",
+    "imageurl": "https://imgur.com/UrIYhhG.gif"
+  },
+  {
+    "question" : "What Mob will attack those saber teeth?",
+    "answer": "antelope",
+    "level": "easy",
+    "imageurl": "https://imgur.com/Oq4zQtS.png"
+  },
+  {
+    "question" : "What is the name of this Mob?",
+    "answer": "cat",
+    "level": "easy",
+    "imageurl": "https://imgur.com/IoniBgi.gif"
+  },
+  {
+    "question" : "What is the name of this Mob?",
+    "answer": "snake",
+    "level": "easy",
+    "imageurl": "https://imgur.com/Cq1sOUX.gif"
+  },
+  {
+    "question" : "What is the name of this enemy?",
+    "answer": "trork",
+    "level": "easy",
+    "imageurl": "https://imgur.com/V5wdFW6.png"
+  },
+  {
+    "question" : "What is the name of this enemy?",
+    "answer": "saber-toothed tiger,saber toothed tiger",
+    "level": "medium",
+    "imageurl": "https://imgur.com/6ASrvbd.png"
+  },
+  {
+    "question" : "What is the name of this server?",
+    "answer": "hypixel",
+    "level": "medium",
+    "imageurl": "https://imgur.com/Ox0HNgZ.png"
+  },
+  {
+    "question" : "In what language is the Hytale client programmed?",
+    "answer": "c#",
+    "level": "medium",
+    "imageurl": "https://imgur.com/cXSj4aX.png"
+  },
+  {
+    "question" : "In what language is the Hytale server API programmed?",
+    "answer": "java",
+    "level": "medium",
+    "imageurl": "https://imgur.com/KN67R6U.png"
+  },
+  {
+    "question" : "What material are these blocks?",
+    "answer": "stone",
+    "level": "easy",
+    "imageurl": "https://imgur.com/BgXzLOL.png"
+  },
+  {
+    "question" : "What is the first name of the CEO of Hypixel Studios?",
+    "answer": "simon",
+    "level": "medium",
+    "imageurl": "https://imgur.com/5gO7slt.png"
+  },
+  {
+    "question" : "What cactus is the imposter? Left or right?",
+    "answer": "left",
+    "level": "easy",
+    "imageurl": "https://imgur.com/DXAXkQL.png"
+  },
+  {
+    "question" : "What is the name of this Mob?",
+    "answer": "antelope",
+    "level": "easy",
+    "imageurl": "https://imgur.com/GUs4J0n.gif"
+  },
+  {
+    "question" : "How is this type of block known?",
+    "answer": "pillars",
+    "level": "medium",
+    "imageurl": "https://imgur.com/5Dwmvm2.png"
+  },
+  {
+    "question" : "Who built this palace?",
+    "answer": "cptcharles",
+    "level": "hard",
+    "imageurl": "https://imgur.com/fDF3N0T.png"
+  },
+  {
+    "question" : "A family of?",
+    "answer": "deer",
+    "level": "easy",
+    "imageurl": "https://imgur.com/y1znuen.png"
+  },
+  {
+    "question" : "Was this image taken inside one?",
+    "answer": "cave",
+    "level": "easy",
+    "imageurl": "https://imgur.com/5ABwtqn.png"
+  },
+  {
+    "question" : "What subspecies of bear is this?",
+    "answer": "grizzly",
+    "level": "medium",
+    "imageurl": "https://imgur.com/smvMZC2.png"
+  },
+  {
+    "question" : "What is the name of this Mob?",
+    "answer": "blowfish,puffer fish",
+    "level": "easy",
+    "imageurl": "https://imgur.com/LVR7EJA.png"
+  },
+  {
+    "question" : "The image was made inside a?",
+    "answer": "movie theater,cinema",
+    "level": "easy",
+    "imageurl": "https://imgur.com/fp5iBcu.png"
+  },
+  {
+    "question" : "What is the name of this Mob?",
+    "answer": "meerkat",
+    "level": "medium",
+    "imageurl": "https://imgur.com/jhGGbMm.png"
+  },
+  {
+    "question" : "How many ducks are there in the GIF?",
+    "answer": "3,three",
+    "level": "easy",
+    "imageurl": "https://imgur.com/dS4Z9QK.gif"
+  },
+  {
+    "question" : "What is the name of this Mob?",
+    "answer": "frog",
+    "level": "easy",
+    "imageurl": "https://imgur.com/uCZUjaC.gif"
+  }
+]
