@@ -1,125 +1,125 @@
 # Command Alias Section
-word_alias: "Alias"
+word_alias: "Псевдоним"
 
-cmd_alias_support: 'support'
-cmd_alias_setrestricted: 'setrestricted'
-cmd_alias_setchannelcmds: 'setchannelcmds'
-cmd_alias_addchannel: 'addchannel'
-cmd_alias_removechannel: 'removechannel'
-cmd_alias_levelupmsg: 'levelupmsg'
-cmd_alias_wiki: 'wiki'
-cmd_alias_pets: 'pets'
-cmd_alias_cmdinfo: 'cmdinfo'
-cmd_alias_addmoney: 'addmoney'
-cmd_alias_backpack: 'backpack'
-cmd_alias_cashicon: 'cashicon'
-cmd_alias_chop: 'cut'
-cmd_alias_energy: 'energy'
+cmd_alias_support: 'Поддержка'
+cmd_alias_setrestricted: 'Поставить Ограничение'
+cmd_alias_setchannelcmds: 'Поставить каналу cmds'
+cmd_alias_addchannel: 'Добавить канал'
+cmd_alias_removechannel: 'Убрать Канал'
+cmd_alias_levelupmsg: 'Сообщение о повышении уровня'
+cmd_alias_wiki: 'Вики'
+cmd_alias_pets: 'Питомцы'
+cmd_alias_cmdinfo: 'cmd Инфо.'
+cmd_alias_addmoney: 'Добавить деньги'
+cmd_alias_backpack: 'Рюкзак'
+cmd_alias_cashicon: 'Иконка "Деньги"'
+cmd_alias_chop: 'Рубить'
+cmd_alias_energy: 'Энергия'
 cmd_alias_eval: 'eval'
-cmd_alias_explore: 'explore'
-cmd_alias_farm: 'farm'
-cmd_alias_fight: 'fight'
-cmd_alias_find: 'find'
-cmd_alias_fish: 'fish'
-cmd_alias_heal: 'cure'
-cmd_alias_health: 'health'
-cmd_alias_help: 'help'
-cmd_alias_inventory: 'inventory'
-cmd_alias_lang: 'idiom'
-cmd_alias_levelup: 'levelup'
-cmd_alias_mine: 'mine'
-cmd_alias_money: 'money'
-cmd_alias_move: 'goto'
-cmd_alias_moves: 'places'
-cmd_alias_pet: 'pets'
-cmd_alias_prefix: 'prefix'
-cmd_alias_profile: 'profile'
-cmd_alias_quiz: 'quiz'
-cmd_alias_removemoney: 'removemoney'
-cmd_alias_sell: 'sell'
-cmd_alias_setmoney: 'setmoney'
-cmd_alias_setrespawn: 'setrespawn'
-cmd_alias_shop: 'shop'
-cmd_alias_shops: 'stores'
-cmd_alias_slot: 'slotmachine'
-cmd_alias_steal: 'rob'
-cmd_alias_transfer: 'transfer'
-cmd_alias_withdraw: 'withdraw'
-cmd_alias_slotpattern: 'slotpattern'
-cmd_alias_slotminbet: 'slotminbet'
-cmd_alias_invite: 'invitelink'
+cmd_alias_explore: 'Исследовать'
+cmd_alias_farm: 'Ферма'
+cmd_alias_fight: 'Битва'
+cmd_alias_find: 'Найти'
+cmd_alias_fish: 'Рыба'
+cmd_alias_heal: 'Лечение'
+cmd_alias_health: 'Здоровье'
+cmd_alias_help: 'Помощь'
+cmd_alias_inventory: 'Инвертарь'
+cmd_alias_lang: 'Язык'
+cmd_alias_levelup: 'Новый Уровень'
+cmd_alias_mine: 'Добывать'
+cmd_alias_money: 'Деньги'
+cmd_alias_move: 'Идти'
+cmd_alias_moves: 'Места'
+cmd_alias_pet: 'Питомцы'
+cmd_alias_prefix: 'Префикс'
+cmd_alias_profile: 'Профиль'
+cmd_alias_quiz: 'Опрос'
+cmd_alias_removemoney: 'Убрать Деньги'
+cmd_alias_sell: 'Продать'
+cmd_alias_setmoney: 'Задать число Зелёных'
+cmd_alias_setrespawn: 'Задать сочку возраждения'
+cmd_alias_shop: 'Магазин'
+cmd_alias_shops: 'Магазины'
+cmd_alias_slot: 'Игровой Автомат'
+cmd_alias_steal: 'Красть'
+cmd_alias_transfer: 'Переместится'
+cmd_alias_withdraw: 'Забрать'
+cmd_alias_slotpattern: 'Форма Слота'
+cmd_alias_slotminbet: 'Минимальная ставка Слота'
+cmd_alias_invite: 'Ссылка приглашение'
 
 # Invite Section
-cmd_invite_title: 'Invite the bot to your Server'
-cmd_invite_description: 'With the link below you can invite the bot to any of the Discord servers that you administer.'
-cmd_invite_link: 'Invitation Link'
+cmd_invite_title: 'Пригласить бота на ваш сервер'
+cmd_invite_description: 'С этой ссылкой вы можете пригласить мбота на любой сервер который администрируйте.'
+cmd_invite_link: 'Ссылка Приглашение'
 
 # General Section
-subcmd_incorrect_title: 'Incorrect sub-command!'
-subcmd_incorrect_description: 'The sub-command that you try to use is incorrect, you must make sure that it is well written. If you need help you can place the command {cmd}.'
-cmd_set_cashicon_changed_title: Money icon changed correctly!
-cmd_set_cashicon_changed_description: You have changed the monetary icon from {from} to {to}
-cmd_set_prefix_changed_title: Prefix changed correctly!
-cmd_set_prefix_changed_description: You have changed the prefix to execute commands from {from} to {to}
-cmd_set_levelupmsg_changed_title: Message changed correctly!
+subcmd_incorrect_title: 'Некорректная всопагательная команда!'
+subcmd_incorrect_description: 'Команду которую вы хотите задействовать не корректна, пожалуйста проверте правильно вы ли её написали. Если вам нужна помощь, вы можете написать команду: {cmd}.'
+cmd_set_cashicon_changed_title: Иконка "Денги" успешно изменена!
+cmd_set_cashicon_changed_description: Вы поменяли значок "Деньги" с {from} на {to}
+cmd_set_prefix_changed_title: Префикс изменён успешно!
+cmd_set_prefix_changed_description: Вы поменяли префикс с {from} на {to}
+cmd_set_levelupmsg_changed_title: Сообщение успешно изменено!
 cmd_set_levelupmsg_changed_description: 'You have changed the message when leveling up. The following message will have the visualization of the result.'
-cmd_set_lang_changed_title: Language changed correctly!
-cmd_set_lang_changed_description: You have changed the language from {from} to {to}
-cmd_set_lang_title: Change language
-cmd_set_lang_description: Click on the reaction of the flag of the specified language, after that the bot will automatically change all messages, generated image texts and panel phrases to that language.
-cmd_set_lang_available_langs: 'Languages available:'
-cmd_money_description: 'All your money:'
-cmd_money_current_title: 'Current Money'
-cmd_money_bank_title: 'Money in the bank'
-cmd_money_total_title: 'Total Money'
-cmd_setmoney_title: Money Updated!
-cmd_addmoney_title: Money Added!
-cmd_heal_title: Healed User!
-cmd_removemoney_title: Money Removed!
-cmd_user_healed: The health and energy of {user} have been regenerated.
-cmd_user_money_updated: The current money of {user} now it's {cashicon}{money}
-cmd_respawntime_updated_title: Updated Regeneration Time!
-cmd_respawntime_updated: The regeneration time has changed from {old} seconds to {new} seconds, additionally and to avoid errors, the regeneration time of all the users has been reset.
-word_commission: Commission
-word_bankmoney: Banking Money
-word_money: Money
-word_attention: Attention
-place_word_mine: Mine
-place_word_forest: Forest
-place_word_island: Island
-place_word_homestead: Farm
-place_word_dungeon: Dungeon
-place_word_store: Store
-place_word_market: Market
-place_word_hospital: Hospital
-word_place: Place
-word_mine: Mine
-word_chop: Cut
-word_farm: Cultivate
-word_attack: Attack
-word_pickup: Take
-word_greet: Greet
-word_egg: Take
-word_fishing: Fishing
-word_common: Common
-word_normal: Normal
-word_rare: Rare
-word_epic: Epic
-word_legendary: Legendary
-available_action: 'Available action: {action}'
-note: 'Note:'
-exp_earned: +{exp} experience
-money_earned: +{cashicon}{money} money
-energy_earned: +{energy} energy
-hearts_earned: +{hearts} health
-item_used: -{quantity} of {itemicon}{name}
-money_used: -{cashicon}{money} money
-energy_used: -{energy} energy
-hearts_used: -{hearts} health
-energy_needed: This action will consume you {energy} of energy.
-hearts_needed: This action can take you between 0-{hearts} of health.
-death_title: You have died in combat!
-death_description: Apparently you had very few hearts and you have lost the battle, at the moment you have been taken to the hospital and you have been charged {cashicon}{money} for the services, plus you have lost all your energy, but at least your health is complete.
+cmd_set_lang_changed_title: Язык был изменён успешно!
+cmd_set_lang_changed_description: Вы поменяли язык с {from} на {to}
+cmd_set_lang_title: Изменить язык
+cmd_set_lang_description: Нажмите на флаг, нужного вам языка. После чего бот автоматически сменит язык всех сообщений посланными им.
+cmd_set_lang_available_langs: 'Доступные Языки:'
+cmd_money_description: 'Все ваши Дегьги:'
+cmd_money_current_title: 'Доступные Деньги'
+cmd_money_bank_title: 'Деньги в Банке'
+cmd_money_total_title: 'Итого'
+cmd_setmoney_title: Деньги Обновлены!
+cmd_addmoney_title: Деньги Добавлены!
+cmd_heal_title: Исцеляемый Участник!
+cmd_removemoney_title: Деньги списаны!
+cmd_user_healed: Здоровье и мана {user} восстановились.
+cmd_user_money_updated: Доступные деньги {user} сейчас {cashicon}{money}
+cmd_respawntime_updated_title: Время восстановления обновлено!
+cmd_respawntime_updated: Время восстановления был сменён с {old} сек. на {new} сек., дополнительно и что бы избежать ошибок, время восстановления были сброшены для всех пользователей.
+word_commission: Комиссия
+word_bankmoney: Банковские Деньги
+word_money: Деньги
+word_attention: Внимание
+place_word_mine: Добывать
+place_word_forest: Лес
+place_word_island: Остров
+place_word_homestead: Ферма
+place_word_dungeon: Подземелье
+place_word_store: Магазин
+place_word_market: Супер-Маркет
+place_word_hospital: Госпиталь
+word_place: Место
+word_mine: Добывать
+word_chop: Рубить
+word_farm: Собирать
+word_attack: Аттаковать
+word_pickup: Взять
+word_greet: Приветствовать
+word_egg: Взять
+word_fishing: Рыюачить
+word_common: Обычный
+word_normal: Хороший
+word_rare: Редкий
+word_epic: Эпический
+word_legendary: Легендарный
+available_action: 'Доступное действие: {action}'
+note: 'Заметка:'
+exp_earned: +{exp} exp.
+money_earned: +{cashicon}{money} Зелёных
+energy_earned: +{energy} Энергии
+hearts_earned: +{hearts} Здоровья
+item_used: -{quantity} из {itemicon}{name}
+money_used: -{cashicon}{money} Зелёных
+energy_used: -{energy} Энергии
+hearts_used: -{hearts} Здоровья
+energy_needed: Это действие израсходует {energy} вашей энергии.
+hearts_needed: Это действие может уменьшить на 0-{hearts} ваше здоровье.
+death_title: Вы погибли в битве!
+death_description: Похоже вы имели очень мало здоровья, поэтому вы потерпели поражение. Вы были отправлены в госпиталь. С вас сняли {cashicon}{money} за лечение, также ваша энергия была потеряна, но ваше здоровье было восстановлено полностью.
 death_additional: "Due to your death while stealing, {user}'s pet has been left with {cashicon}{money} of additional money!"
 insufficient_hearts: You have run out of health!
 insufficient_energy: You have run out of energy!
