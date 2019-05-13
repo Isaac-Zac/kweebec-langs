@@ -2,28 +2,28 @@
   {
     "chance": 10,
     "title": "Олень!",
-    "description" : "Кажется, что они в стае, я мог бы атаковать или продолжить свое исследование.",
+    "description" : "Кажется, они в стае, я могу атаковать или продолжить свои исследования.",
     "imageurl": "https://i.imgur.com/fZJzdH0.png",
     "attack": true
   },
   {
     "chance": 8,
     "title": "Скелет!",
-    "description" : "Там они придут, я нападу на них, но будьте очень осторожны с лавой!",
+    "description" : "Он наступает, я нападу на него, но будьте очень осторожны с лавой!",
     "imageurl": "https://i.imgur.com/Biy5AEd.jpg",
     "attack": true
   },
   {
     "chance": 8,
     "title": "Это саблезубый тигр?",
-    "description" : "На этот раз я буду использовать свое копье!",
+    "description" : "На этот раз, я использую своё копье!",
     "imageurl": "https://i.imgur.com/YfTZHN5.jpg",
     "attack": true
   },
   {
     "chance": 20,
     "title": "Воин с оружием",
-    "description" : "Должен быть в союзе, лучше следовать моей поездке...",
+    "description" : "Должен быть в союзе, лучше продолжу своё путешествие...",
     "imageurl": "https://i.imgur.com/vgIfHtq.jpg"
   },
   {
@@ -35,40 +35,40 @@
   {
     "chance": 6,
     "title": "Страшный ледяной дракон!",
-    "description" : "Атака в группе, это довольно сильный враг!",
+    "description" : "Атакауем группой, это довольно сильный враг!",
     "imageurl": "https://imgur.com/jWRMUTz.jpg",
     "attack": true
   },
   {
     "chance": 6,
     "title": "Какие странные существа",
-    "description" : "Хотя сейчас не время бояться, вам нужно атаковать!",
+    "description" : "Сейчас не время бояться, вам нужно атаковать!",
     "imageurl": "https://imgur.com/fmPTL3B.jpg",
     "attack": true
   },
   {
     "chance": 10,
     "title": "Тяжелая битва!",
-    "description" : "Неплохо время от времени веселиться в мини-играх, мы идем на победу команды!",
+    "description" : "Неплохо время от времени веселиться в мини-играх, мы идем к командной победе!",
     "imageurl": "https://imgur.com/KSSBUyX.jpg",
     "attack": true
   },
   {
     "chance": 20,
     "title": "Кактус с глазами и ртом?",
-    "description" : "Я думал, что видел все это...",
+    "description" : "Я думал, что уже видел всё...",
     "imageurl": "https://imgur.com/WDyiUHi.jpg"
   },
   {
     "chance": 20,
     "title": "Они сурикаты?",
-    "description" : "Я не знаю, они также могут быть другим животным...",
+    "description" : "Я не знаю, они могут быть другим животным...",
     "imageurl": "https://imgur.com/hMjGRK4.jpg"
   },
   {
     "chance": 12,
     "title": "Спящий медведь!",
-    "description" : "Было бы стыдно разбудить его...",
+    "description" : "Будет стыдно разбудить его...",
     "imageurl": "https://imgur.com/11vHGhV.jpg",
     "attack": true
   },
@@ -87,8 +87,8 @@
   },
   {
     "chance": 20,
-    "title": "Гигантский гипер гигантский форт?",
-    "description" : "Что это будет? Что будет внутри? Многие вопросы вторгаются в мой разум...",
+    "title": "Гипер-гигантский форт?",
+    "description" : "Что это? Что внутри? Много вопросов вторгаются в мой разум...",
     "imageurl": "https://imgur.com/4c7Xwzv.jpg"
   },
   {
@@ -99,15 +99,15 @@
   },
   {
     "chance": 8,
-    "title": "Там он приходит!",
-    "description" : "Я не помню, чтобы видел что-то подобное раньше, но я должен противостоять вашей атаке сейчас!",
+    "title": "Они надвигаются!",
+    "description" : "Я не помню, чтобы видел что-то подобное раньше, но я должен противостоять вашей атаке!",
     "imageurl": "https://imgur.com/WJciyOV.jpg",
     "attack": true
   },
   {
     "chance": 20,
     "title": "Квибикс!",
-    "description" : "Хотя у этого есть оружие в его руках, даже у самого восхитительного есть взрывная сторона...",
+    "description" : "Хотя у него и есть оружие в руках, даже у самого восхитительного есть злая сторона...",
     "imageurl": "https://imgur.com/zkpRB3d.jpg"
   },
   {
@@ -125,15 +125,15 @@
   },
   {
     "chance": 8,
-    "title": "игроки",
-    "description" : "Некоторым игрокам весело, здорово, я скажу привет...",
+    "title": "Игроки",
+    "description" : "Некоторым игрокам весело, здорово, скажу ка я им привет...",
     "imageurl": "https://imgur.com/Z8NfTEb.jpg",
     "greet": true
   },
   {
     "chance": 18,
     "title": "Сова!",
-    "description" : "Это было немного скрыто, но я вижу это...",
+    "description" : "Она вроде бы спряталась, но я вижу её...",
     "imageurl": "https://imgur.com/rAJMHMz.jpg"
   },
   {
@@ -151,26 +151,26 @@
   },
   {
     "chance": 18,
-    "title": "Нам нужен лес!",
-    "description" : "Я нашел здесь несколько деревьев, срубил их!",
+    "title": "Нам нужно дерево!",
+    "description" : "Я нашел здесь несколько деревьев, надо срубить их!",
     "imageurl": "https://imgur.com/zg8EKUc.jpg"
   },
   {
     "chance": 20,
     "title": "Портал!",
-    "description" : "Что будет на другой стороне?",
+    "description" : "Что на другой стороне?",
     "imageurl": "https://imgur.com/lmQlGpV.jpg"
   },
   {
     "chance": 4,
-    "title": "Перейти на сокровище!",
-    "description" : "Что будет внутри?",
+    "title": "Сундук с сокровищем!",
+    "description" : "Что же внутри?",
     "imageurl": "https://imgur.com/uTb1zX2.jpg",
     "opencrate": true
   },
   {
     "chance": 20,
-    "title": "Что это за чертовщина?",
+    "title": "Что за чертовщина?!",
     "description" : "Это вызывает у меня плохое предчувствие...",
     "imageurl": "https://imgur.com/THShV1N.jpg"
   },
@@ -182,14 +182,14 @@
   },
   {
     "chance": 20,
-    "title": "¡Квибикс!",
-    "description" : "Как они очаровательны, некоторые просто дети.",
+    "title": "¡Квибиксы!",
+    "description" : "Какие они очаровательны, некоторые ещё дети.",
     "imageurl": "https://imgur.com/5QCE2lz.jpg"
   },
   {
     "chance": 20,
     "title": "Красивый щенок",
-    "description" : "Я хотел бы иметь домашнее животное, как :)",
+    "description" : "Я хотел бы иметь домашнее животное :)",
     "imageurl": "https://imgur.com/AZrv9O0.jpg"
   },
   {
@@ -207,7 +207,7 @@
   {
     "chance": 20,
     "title": "Руины!",
-    "description" : "Что будет в этом месте? Океан хранит много секретов.",
+    "description" : "Что же там? Океан хранит много секретов.",
     "imageurl": "https://imgur.com/OHaJuu3.jpg"
   },
   {
@@ -231,13 +231,13 @@
   {
     "chance": 20,
     "title": "Потрясающий вид",
-    "description" : "Поколение мира довольно интересное, реки, озера, деревья, пещеры, разнообразный рельеф, этот мир очень интересен...",
+    "description" : "Генерация мира довольно интересное: реки, озера, деревья, пещеры, разнообразный рельеф. Этот мир очень интересен...",
     "imageurl": "https://imgur.com/P1p3Dgi.jpg"
   },
   {
     "chance": 20,
     "title": "Сила Саммита",
-    "description" : "Иногда видение вещей с горы помогает мне узнать этот сказочный мир...",
+    "description" : "Иногда смотря на это с горы, помогает мне узнать этот сказочный мир...",
     "imageurl": "https://imgur.com/cAOc0jr.jpg"
   },
   {
